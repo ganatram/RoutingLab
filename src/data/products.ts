@@ -36,4 +36,10 @@ export const products: Product[] = [
     name: 'Tailwind CSS',
     price: 7,
   },
+  {
+    description: 'Tanstack Query - syncing states ',
+    id: 6,
+    name: 'Tanstack Query',
+    price: 8,
+  },
 ];
